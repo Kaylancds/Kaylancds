@@ -26,6 +26,10 @@
 
 ---
 
+![Kaylan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaylancds&show_icons=true&theme=dark)
+
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/seu-perfil">
@@ -48,34 +52,8 @@
   </a>
 </div>
 
----
-
-
-
-
-<div align="center">
-  <a href="https://github.com/kaylancds">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaylancds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylancds&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
 
 
 ---
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaylancds&theme=dark"/>
-</div>
-
----
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaylancds&theme=darkhub&column=4"/>
-</div>
-
-## 🐍 Contribuições animadas
-<div align="center">
-  <img src="https://github.com/kaylancds/kaylancds/blob/output/github-contribution-grid-snake.svg" />
-</div>
